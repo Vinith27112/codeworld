@@ -23,4 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Vinith27112/codeworld/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Vinith27112/codeworld/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vinith27112/codeworld/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vinith27112/codeworld/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
