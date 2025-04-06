@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinith27112/codeworld/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Vinith27112/codeworld/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
